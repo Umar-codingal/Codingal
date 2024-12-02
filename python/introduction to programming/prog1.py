@@ -1,0 +1,5 @@
+print("Hello, my name is Umar")
+print(4)
+print("Hi\n How are you doing?")
+print("your today's score is ", 78945635794620)
+print("Welcome to coding", end= " you are most welcome")
