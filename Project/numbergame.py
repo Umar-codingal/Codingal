@@ -35,7 +35,7 @@ def pick():
 
 			if guess<=100 and guess>=1: #if they are in range
 				guessesTaken=guessesTaken+1 #adds one guess each time the player is wrong
-				if guessesTaken<6:
+				if guessesTaken<10:
 					if guess<number:
 						print("The guess of the number that you have entered is too low")
 					if guess>number:
