@@ -17,7 +17,7 @@ for i in range(4):
     for j in range(0,3):
         frame=Frame(
             master=root,
-            relief=SUNKEN,
+            relief=RAISED,
             borderwidth=1 
                     
                     )
